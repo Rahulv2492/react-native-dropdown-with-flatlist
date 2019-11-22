@@ -1,5 +1,5 @@
 {
-  "name": "react-native-modal-dropdown",
+  "name": "react-native-modal-dropdown-with-flatlist",
   "version": "0.7.0",
   "description": "A react-native dropdown component for both iOS and Android.",
   "keywords": [
@@ -16,9 +16,9 @@
     "selector",
     "option"
   ],
-  "homepage": "https://github.com/sohobloo/react-native-modal-dropdown",
+  "homepage": "https://github.com/Rahulv2492/react-native-dropdown-with-flatlist.git",
   "bugs": {
-    "url": "https://github.com/sohobloo/react-native-modal-dropdown/issues",
+    "url": "https://github.com/Rahulv2492/react-native-dropdown-with-flatlist/issues",
     "email": "sohobloo@live.cn"
   },
   "license": "MIT",
@@ -26,7 +26,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sohobloo/react-native-modal-dropdown.git"
+    "url": "https://github.com/Rahulv2492/react-native-dropdown-with-flatlist.git"
   },
   "dependencies": {
     "prop-types": "^15.6.0",
