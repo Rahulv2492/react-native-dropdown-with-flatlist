@@ -1,5 +1,7 @@
 [![npm version](https://badge.fury.io/js/react-native-modal-dropdown.svg)](https://badge.fury.io/js/react-native-modal-dropdown)
 
+"author": "sohobloo <sohobloo@live.cn> (https://github.com/sohobloo)",
+
 # react-native-modal-dropdown
 
 A react-native dropdown/picker/selector component for both Android & iOS.
